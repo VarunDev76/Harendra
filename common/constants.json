@@ -1,0 +1,26 @@
+{
+	"messages": {
+		"userLogIn": {
+			"UnAuth": "Username or password is not mathced",
+      "Success": "You are logged in successfully",
+      "found": "User exists already",
+      "create": "You are registered successfully",
+      "update": "Updated successfully",
+      "notupdate": "User not found",
+      "removed": "You are no more with this application",
+      "notremoved": "user not found",
+      "notMatch": "password is not matched"
+		}
+	},
+	"errors": {
+		"headerError": "Header is mismathced",
+		"bodyParameters": "Body parameter is mismathced"
+	}, 
+	"errorCode": {
+		"badRequest": 400,
+		"success": 200,
+		"unAuthorised": 401,
+		"notFound": 404,
+		"serverError": 500 
+	}
+}

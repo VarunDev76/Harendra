@@ -1,0 +1,80 @@
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 13:37:00"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 13:39:29"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 13:43:06"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 13:49:37"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 13:50:18"}
+{"message":"userlog in request with body :  [object Object]","level":"info","timestamp":"2019-12-28 13:50:19"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 13:50:52"}
+{"message":"userlog in request with body :  [object Object]","level":"info","timestamp":"2019-12-28 13:50:58"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 13:51:43"}
+{"message":"userlog in request with body :  [object Object]","level":"info","timestamp":"2019-12-28 13:51:47"}
+{"message":"userlog in request with body :  [object Object]","level":"info","timestamp":"2019-12-28 13:52:42"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 13:52:47"}
+{"message":"userlog in request with body :({\"username\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 13:52:49"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:08:06"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:08:12"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:09:11"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:09:15"}
+{"message":"userlog in request with body :({\"username\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:09:22"}
+{"message":"userlog in request with body :({\"username\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:09:31"}
+{"message":"userlog in request with body :({\"username\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:10:36"}
+{"message":"userlog in request with body :({\"username\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:10:49"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:13:07"}
+{"message":"userlog in request with body :({\"username\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:13:10"}
+{"message":"userlog in request with body :({\"username\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:13:17"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:13:40"}
+{"message":"userlog in request with body :({\"username\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:13:45"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:14:29"}
+{"message":"userlog in request with body :({\"username\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:14:32"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:14:42"}
+{"message":"userlog in request with body :({\"username\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:14:47"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:14:56"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:15:49"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:15:52"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:17:58"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:18:01"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:21:51"}
+{"message":"userlog in request with body :({\"userName\":\"Harry voot\",\"_id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:22:00"}
+{"message":"userlog in request with body :({\"userName\":\"Harry voot\",\"_id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:22:26"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:22:32"}
+{"message":"userlog in request with body :({\"userName\":\"Harry voot\",\"_id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:22:33"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:23:51"}
+{"message":"userlog in request with body :({\"userName\":\"Harry voot\",\"_id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:23:52"}
+{"message":"userlog in request with body :({\"userName\":\"Harry voot\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:24:06"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:28:52"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:28:55"}
+{"message":"userlog in request with body :({\"_id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:34:58"}
+{"message":"userlog in request with body :({\"id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:35:41"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:35:47"}
+{"message":"userlog in request with body :({\"id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:35:50"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:37:18"}
+{"message":"userlog in request with body :({\"id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:37:22"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:37:41"}
+{"message":"userlog in request with body :({\"id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:37:43"}
+{"message":"userlog in request with body :({\"id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:39:38"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:39:42"}
+{"message":"userlog in request with body :({\"id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:39:43"}
+{"message":"userlog in request with body :({\"userName\":\"Harry voot\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:39:57"}
+{"message":"userlog in request with body :({\"id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:40:07"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:40:37"}
+{"message":"userlog in request with body :({\"id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:40:37"}
+{"message":"userlog in request with body :({\"userName\":\"Harry voot\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:40:49"}
+{"message":"userlog in request with body :({\"userName\":\"Harry voot\",\"_id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:41:03"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:41:35"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:42:27"}
+{"message":"userlog in request with body :({\"id\":\"5e0715fabc9d5828fc12bc0b\"})","level":"info","timestamp":"2019-12-28 14:42:32"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:42:38"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:42:48"}
+{"message":"userlog in request with body :({\"id\":\"5e07194c5f1e282ee0ed6bb0\"})","level":"info","timestamp":"2019-12-28 14:42:57"}
+{"message":"userlog in request with body :({\"id\":\"5e07194c5f1e282ee0ed6bb0\"})","level":"info","timestamp":"2019-12-28 14:43:00"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:56:55"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:58:18"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:58:22"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:58:27"}
+{"message":"userlog in request with body :({\"oldpassword\":\"12345\",\"newpassword\":\"12300\",\"_id\":\"5e0720363e32241f70074656\"})","level":"info","timestamp":"2019-12-28 14:58:37"}
+{"message":"userlog in request with body :({\"oldpassword\":\"12345\",\"newpassword\":\"12300\",\"id\":\"5e0720363e32241f70074656\"})","level":"info","timestamp":"2019-12-28 14:58:49"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:58:54"}
+{"message":"Common loger file","level":"info","timestamp":"2019-12-28 14:59:44"}
+{"message":"userlog in request with body :({\"oldpassword\":\"12345\",\"newpassword\":\"12300\",\"id\":\"5e0720363e32241f70074656\"})","level":"info","timestamp":"2019-12-28 14:59:51"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12345\"})","level":"info","timestamp":"2019-12-28 14:59:56"}
+{"message":"userlog in request with body :({\"userName\":\"Harry\",\"password\":\"12300\"})","level":"info","timestamp":"2019-12-28 15:00:07"}
